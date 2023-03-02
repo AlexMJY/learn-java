@@ -1,4 +1,4 @@
-package chap_01;
+package ch01;
 
 import com.sun.org.apache.xpath.internal.objects.XString;
 
