@@ -10,8 +10,5 @@ public class ChatToCode {
         char hch = '가'; // char hch = 0xAC00;
         System.out.printf("%c=%d(%#X)%n", hch, (int) hch, (int) hch);
 
-
-
-
     }
 }
