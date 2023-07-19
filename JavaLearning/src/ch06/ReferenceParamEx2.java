@@ -1,6 +1,6 @@
 package ch06;
 
-public class ReferenceParmEx2 {
+public class ReferenceParamEx2 {
     public static void main(String[] args) {
         int[] x = {10}; // 크기가 1인 배열. x[0] = 10;
         System.out.println("main() : x = " + x[0]);
