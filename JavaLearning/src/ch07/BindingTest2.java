@@ -1,6 +1,6 @@
 package ch07;
 
-public class BlindingTest2 {
+class BlindingTest2 {
     public static void main(String[] args) {
         Parent4 p = new Child4();
         Child4 c = new Child4();
