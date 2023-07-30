@@ -1,5 +1,3 @@
-package ch03;
-
 public class Operator32 {
     public static void main(String args[]) {
         int  x, y, z;

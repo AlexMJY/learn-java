@@ -1,5 +1,3 @@
-package ch03;
-
 public class Operator09 {
     public static void main(String[] args) {
         long a = 1000000 * 1000000; // overflow

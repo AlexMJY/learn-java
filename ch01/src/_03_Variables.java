@@ -1,5 +1,3 @@
-package ch01;
-
 public class _03_Variables {
     public static void main(String[] args) {
         System.out.println("alex님 배송이 시작됩니다. 15시에 방문 예정입니다.");

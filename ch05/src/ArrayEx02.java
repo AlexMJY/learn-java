@@ -1,5 +1,3 @@
-package ch05;
-
 import java.util.*;
 public class ArrayEx02 {
     public static void main(String[] args) {

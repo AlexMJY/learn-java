@@ -1,7 +1,5 @@
 // 임의의 값으로 배열 채우기
 
-package ch05;
-
 import java.util.Arrays;
 
 public class ArrayEx09 {

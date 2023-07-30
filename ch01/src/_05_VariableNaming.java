@@ -1,7 +1,3 @@
-package ch01;
-
-import com.sun.org.apache.xpath.internal.objects.XString;
-
 public class _05_VariableNaming {
     public static void main(String[] args) {
         // 변수 이름 짓는 법

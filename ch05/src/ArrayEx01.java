@@ -1,5 +1,3 @@
-package ch05;
-
 public class ArrayEx01 {
     public static void main(String[] args) {
         int[] score = new int[5];

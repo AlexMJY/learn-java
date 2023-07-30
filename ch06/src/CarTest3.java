@@ -1,5 +1,3 @@
-package ch06;
-
 class Car3 {
     String color;
     String gearType;

@@ -1,7 +1,5 @@
 // 예제 32번을 발전시킨 프로그램
 
-package ch04;
-
 import java.util.Scanner;
 
 public class FlowEx33 {

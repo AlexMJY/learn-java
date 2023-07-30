@@ -1,5 +1,3 @@
-package ch03;
-
 public class Operator22 {
     public static void main(String[] args) {
         float f = 0.1f;

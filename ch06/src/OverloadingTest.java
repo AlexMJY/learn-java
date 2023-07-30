@@ -1,5 +1,3 @@
-package ch06;
-
 class OverloadingTest {
     public static void main(String[] args) {
         MyMath3 mm = new MyMath3();

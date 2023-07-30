@@ -1,5 +1,3 @@
-package ch03;
-
 public class Operator04 {
     public static void main(String[] args) {
         int i = -10;

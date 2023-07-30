@@ -1,5 +1,3 @@
-package ch03;
-
 public class Operator27 {
     public static void main(String[] args) {
         boolean  b  = true;

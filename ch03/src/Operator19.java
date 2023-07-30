@@ -1,5 +1,3 @@
-package ch03;
-
 public class Operator19 {
     public static void main(String args[]) {
         int x = 10;

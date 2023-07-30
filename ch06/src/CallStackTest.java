@@ -1,5 +1,3 @@
-package ch06;
-
 public class CallStackTest {
     public static void main(String[] args) {
         firstMethod();

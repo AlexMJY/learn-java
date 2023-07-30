@@ -1,5 +1,3 @@
-package ch03;
-
 public class Operator15 {
     public static void main(String[] args) {
         char lowerCase = 'a';

@@ -1,7 +1,5 @@
 // 정렬하기 (sort) : 오름차순, 내림차순으로 배열을 정렬
 
-package ch05;
-
 public class ArrayEx08 {
     public static void main(String[] args) {
         // 45개의 정수값을 저장하기 위한 배열 생성.

@@ -1,7 +1,5 @@
 // x^1부터 x^n까지의 합을 구하는 프로그램
 
-package ch06;
-
 public class PowerTest {
     public static void main(String[] args) {
         int x = 2;

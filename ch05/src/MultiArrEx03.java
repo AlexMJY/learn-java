@@ -1,7 +1,5 @@
 // 행렬의 곱셈 : 두 행렬(matrix)을 곱한 결과를 출력하는 프로그램
 
-package ch05;
-
 public class MultiArrEx03 {
     public static void main(String[] args) {
         int[][] m1 = { {1, 2, 3}, {4, 5, 6}};

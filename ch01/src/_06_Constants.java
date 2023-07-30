@@ -1,5 +1,3 @@
-package ch01;
-
 public class _06_Constants {
     public static void main(String[] args) {
         String KR_COUNTRY_CODE = "+82"; // 한국 국가 번호

@@ -1,7 +1,5 @@
 // 주민등록번호를 입력받아서 성별을 확인하는 프로그램
 
-package ch04;
-
 import java.util.Scanner;
 
 public class FlowEx08 {

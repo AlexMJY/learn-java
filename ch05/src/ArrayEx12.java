@@ -1,5 +1,3 @@
-package ch05;
-
 public class ArrayEx12 {
     public static void main(String[] args) {
         String[] names = {"kims", "Parks", "Yi"};

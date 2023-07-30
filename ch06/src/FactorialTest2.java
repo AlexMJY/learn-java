@@ -1,5 +1,3 @@
-package ch06;
-
 public class FactorialTest2 {
     public static void main(String[] args) {
         int n = 21;

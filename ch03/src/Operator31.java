@@ -1,5 +1,3 @@
-package ch03;
-
 public class Operator31 {
     public static void main(String[] args) {
         int dec  = 1234;

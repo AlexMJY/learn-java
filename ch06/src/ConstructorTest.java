@@ -1,6 +1,3 @@
-package ch06;
-
-
 class Data1 {
     int value;
 }

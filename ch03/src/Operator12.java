@@ -1,5 +1,3 @@
-package ch03;
-
 public class Operator12 {
     public static void main(String[] args) {
         char c1 = 'a';  // c1에는 문자 'a'의 코드값인 97이 저장된다.

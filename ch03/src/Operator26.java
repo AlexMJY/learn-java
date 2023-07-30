@@ -1,5 +1,3 @@
-package ch03;
-
 public class Operator26 {
     public static void main(String[] args) {
         int a = 5;

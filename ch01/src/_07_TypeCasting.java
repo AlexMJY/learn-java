@@ -1,5 +1,3 @@
-package ch01;
-
 public class _07_TypeCasting {
     public static void main(String[] args) {
         // 형변환 Type Casting

@@ -1,5 +1,3 @@
-package ch06;
-
 class MemberCall {
     int iv = 10;  // 인스턴스변수
     static int cv = 20;  // 클래스변수

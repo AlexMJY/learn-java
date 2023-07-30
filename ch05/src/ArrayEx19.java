@@ -1,7 +1,5 @@
 // 5명의 학생의 세 과목 점수를 더해서 각 학생의 총점과 평균을 계산하고, 과목별 총점을 계산하는 프로그램
 
-package ch05;
-
 public class ArrayEx19 {
     public static void main(String[] args) {
         int [][] score = {

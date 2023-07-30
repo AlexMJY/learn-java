@@ -1,5 +1,3 @@
-package ch03;
-
 public class Operator17 {
     public static void main(String[] args) {
         double pi = 3.141592;

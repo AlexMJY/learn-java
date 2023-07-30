@@ -1,5 +1,3 @@
-package ch03;
-
 public class Operator08 {
     public static void main(String args[]) {
         int a = 1000000;    // 1,000,000   1¹é¸¸

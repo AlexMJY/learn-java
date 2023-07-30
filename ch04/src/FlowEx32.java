@@ -1,7 +1,5 @@
 // 메뉴를 보여주고 선택하는 프로그램. 메뉴를 잘못 선택한 경우, continue문으로 다시 메뉴를 보여주고, 종료(0)를 선택한경우 break로 반복을 벗어나는 프로그램
 
-package ch04;
-
 import java.util.Scanner;
 
 public class FlowEx32 {

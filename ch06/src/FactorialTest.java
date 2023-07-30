@@ -1,5 +1,3 @@
-package ch06;
-
 public class FactorialTest {
     public static void main(String[] args) {
         int result = factorial(4);

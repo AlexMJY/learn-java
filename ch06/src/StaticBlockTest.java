@@ -1,5 +1,3 @@
-package ch06;
-
 public class StaticBlockTest {
     static int[] arr = new int[10];
 

@@ -1,7 +1,5 @@
 // 총합과 평균: 배열의 모든 요소를 더해서 총합과 평균 구하는 프로그램
 
-package ch05;
-
 public class ArrayEx05 {
     public static void main(String[] args) {
         int sum = 0; // 총점 저장

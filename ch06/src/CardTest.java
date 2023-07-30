@@ -1,5 +1,3 @@
-package ch06;
-
 public class CardTest {
     public static void main(String[] args) {
         System.out.println("Card.width = " + Card.width);

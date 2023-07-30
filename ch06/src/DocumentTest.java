@@ -1,5 +1,3 @@
-package ch06;
-
 class Document {
     static int count = 0;
     String name;

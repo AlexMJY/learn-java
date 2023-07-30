@@ -1,5 +1,3 @@
-package ch04;
-
 public class FlowEx01 {
     public static void main(String[] args) {
         int x = 0;

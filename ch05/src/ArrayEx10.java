@@ -1,7 +1,5 @@
 // 길이가 10인 배열에 0과 9사이의 임의의 값으로 채운 다음, 버블정렬 알고리즘을 통해 크기순으로 정렬하는 예제
 
-package ch05;
-
 public class ArrayEx10 {
     public static void main(String[] args) {
         int[] numArr = new int[10];

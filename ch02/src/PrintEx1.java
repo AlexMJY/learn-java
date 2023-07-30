@@ -1,5 +1,3 @@
-package ch02;
-
 public class PrintEx1 {
     public static void main(String[] args) {
         byte b = 1;

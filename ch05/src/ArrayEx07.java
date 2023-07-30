@@ -1,7 +1,5 @@
 // 섞기(shuffle) : 배열의 요소의 순서를 반복해서 바꾼다. (카드섞기, 로또번호생성)
 
-package ch05;
-
 public class ArrayEx07 {
     public static void main(String[] args) {
         int[] numArr = new int[10];

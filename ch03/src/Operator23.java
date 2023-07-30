@@ -1,5 +1,3 @@
-package ch03;
-
 public class Operator23 {
     public static void main(String[] args) {
         String str1 = "abc";

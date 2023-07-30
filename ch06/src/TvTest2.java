@@ -1,5 +1,3 @@
-package ch06;
-
 public class TvTest2 {
     public static void main(String[] args) {
         Tv t1 = new Tv();  // Tv t; t1 = new Tv();를 한문장으로 생략

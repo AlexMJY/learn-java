@@ -1,5 +1,3 @@
-package ch03;
-
 public class Operator07 {
     public static void main(String[] args) {
         byte a = 10;

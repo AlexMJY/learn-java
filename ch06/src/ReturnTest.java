@@ -1,5 +1,3 @@
-package ch06;
-
 public class ReturnTest {
     public static void main(String[] args) {
         ReturnTest r = new ReturnTest();

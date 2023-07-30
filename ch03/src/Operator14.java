@@ -1,5 +1,3 @@
-package ch03;
-
 public class Operator14 {
     public static void main(String[] args) {
         char c = 'a';

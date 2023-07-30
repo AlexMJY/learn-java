@@ -1,5 +1,3 @@
-package ch06;
-
 public class MyMathTest {
     public static void main(String[] args) {
         MyMath mm = new MyMath();

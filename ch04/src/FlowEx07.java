@@ -1,7 +1,5 @@
 // 가위 바위 보 프로그램
 
-package ch04;
-
 import java.util.Scanner;
 
 public class FlowEx07 {

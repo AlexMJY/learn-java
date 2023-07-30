@@ -1,5 +1,3 @@
-package ch02;
-
 public class CastingEx3 {
     public static void main(String[] args) {
         float f   = 9.1234567f;
