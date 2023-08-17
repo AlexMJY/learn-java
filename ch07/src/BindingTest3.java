@@ -8,12 +8,14 @@ public class BindingTest3 {
         System.out.println("p.x = " + p.x);
         p.method();
         System.out.println("c.x = " + c.x);
+
         c.method();
     }
 }
 
 class Parent5 {
     int x = 100;
+
     void method() {
         System.out.println("Parent Method");
     }
