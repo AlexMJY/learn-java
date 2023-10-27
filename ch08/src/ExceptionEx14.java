@@ -3,7 +3,7 @@ public class ExceptionEx14 {
         try {
             method1();
         } catch (Exception e) {
-            System.out.println("main method exception has been processed");
+            System.out.println("main메서드에서 예외가 처리되었습니다.");
             e.printStackTrace();
         }
     }

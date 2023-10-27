@@ -7,8 +7,9 @@ public class ExceptionEx08 {
             System.out.println(0 / 0);
             System.out.println(4);
         } catch (ArithmeticException ae) {
-            ae.printStackTrace();  // 참조변수ae를 통해 생성된 ArithmeticException에 접근 가능
-            System.out.println("Exception Message : " + ae.getMessage());
-        }  // end of try-catch
+            ae.printStackTrace();
+            System.out.println("예외 메시지 : " + ae.getMessage());
+        }
+        System.out.println(6);
     }
 }

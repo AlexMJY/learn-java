@@ -3,13 +3,13 @@ public class FinallyTest {
         try {
             startInstall();
             copyFiles();
-            deleteTemplates();
+            deleteTempFiles();
         } catch (Exception e) {
             e.printStackTrace();
-            deleteTemplates();
+            deleteTempFiles();
         }
     }
-    static void startInstall() { /* 프로그램 설치에 필요한 준비를 하는 코드 */ }
-    static void copyFiles() { /* 파일들을 복사하는 코드 */ }
-    static void deleteTemplates() { /* 임시파일들을 삭제하는 코드 */ }
+    static void startInstall() { /* 프로그램 설치 코드*/}
+    static void copyFiles() {}
+    static void deleteTempFiles() {}
 }

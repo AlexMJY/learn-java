@@ -6,7 +6,7 @@ public class ExceptionEx13 {
         try {
             throw new Exception();
         } catch (Exception e) {
-            System.out.println("method1 Exception has been processed");
+            System.out.println("method1메서드에서 예외가 처리되었습니다.");
             e.printStackTrace();
         }
     }
