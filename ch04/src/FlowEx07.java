@@ -1,6 +1,7 @@
 // 가위 바위 보 프로그램
 
-import java.util.Scanner;
+// import java.util.Scanner;
+import java.util.Scanner;;
 
 public class FlowEx07 {
     public static void main(String[] args) {

@@ -4,92 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f233c02-5364-48ef-a54c-4376de03abeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FinallyTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FinallyTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/CSub.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/CSuper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/CloseException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch08/CloseException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/CloseableResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch08/CloseableResource.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/ExceptionEx01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch08/ExceptionEx01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/ExceptionEx07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch08/ExceptionEx07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/ExceptionEx08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch08/ExceptionEx08.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/ExceptionEx09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch08/ExceptionEx09.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/ExceptionEx10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch08/ExceptionEx10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/ExceptionEx13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch08/ExceptionEx13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/ExceptionEx14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch08/ExceptionEx14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/ExceptionEx15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/ExceptionEx16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/ExceptionEx17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/FinallyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch08/FinallyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/FinallyTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/FinallyTest3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/MemoryException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch08/MemoryException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/NewExceptionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch08/NewExceptionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/SpaceException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch08/SpaceException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/TryWithResourceEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch08/TryWithResourceEx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/WorkException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch08/WorkException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch08/제목없음.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionEx01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionEx01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionEx02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionEx02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionEx03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionEx03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionEx05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionEx05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionEx06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionEx06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionEx07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionEx07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionEx08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionEx08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionEx09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionEx09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionEx10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionEx10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionEx11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionEx11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionEx12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionEx12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionEx13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionEx13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionEx14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionEx14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionEx15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionEx16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionEx17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FinallyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinallyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FinallyTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FinallyTest3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NewExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NewExceptionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TryWithResourceEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TryWithResourceEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/ch09.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/out/production/ch09/Card.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/out/production/ch09/Card2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/out/production/ch09/Card3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/out/production/ch09/CardToString01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/out/production/ch09/CardToString02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/out/production/ch09/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/out/production/ch09/ClassEx01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/out/production/ch09/CloneEx01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/out/production/ch09/CloneEx02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/out/production/ch09/EqualsEx01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/out/production/ch09/EqualsEx02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/out/production/ch09/HashCodeEx01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/out/production/ch09/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/out/production/ch09/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/out/production/ch09/Point2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/out/production/ch09/ShallowCopy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/out/production/ch09/ToStringTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/out/production/ch09/Value.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/src/CardToString01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/src/CardToString02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/src/ClassEx01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/src/CloneEx01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/src/CloneEx02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/src/EqualsEx01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/src/EqualsEx02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/src/HashCodeEx01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/src/ShallowCopy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch09/src/ToStringTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="1f233c02-5364-48ef-a54c-4376de03abeb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,6 +37,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -133,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698386069391</updated>
-      <workItem from="1698386070436" duration="4332000" />
+      <workItem from="1698386070436" duration="4391000" />
     </task>
     <servers />
   </component>
