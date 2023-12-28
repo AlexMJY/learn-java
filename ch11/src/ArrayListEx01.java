@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class ArrayListEx01 {
     public static void main(String[] args) {
         ArrayList list1 = new ArrayList(10);
@@ -17,10 +16,10 @@ public class ArrayListEx01 {
         Collections.sort(list2);
         print(list1, list2);
 
-        System.out.println("list1.containsAll(list2 : " + list1.containsAll(list2));
+        System.out.println("list1.containsAll(list2) : " + list1.containsAll(list2));
 
         list2.add("B");
-        list2.add("c");
+        list2.add("C");
         list2.add(3, "A");
         print(list1, list2);
 
@@ -36,7 +35,6 @@ public class ArrayListEx01 {
         }
         print(list1, list2);
     }
-
     static void print(ArrayList list1, ArrayList list2) {
         System.out.println("list1 : " + list1);
         System.out.println("list2 : " + list2);

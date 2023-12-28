@@ -9,11 +9,10 @@ public class ArrayListEx02 {
         List list = new ArrayList(length / LIMIT + 10);
 
         for (int i = 0; i < length; i += LIMIT) {
-            if (i + LIMIT < length) {
+            if (i + LIMIT < length)
                 list.add(source.substring(i, i + LIMIT));
-            } else {
+            else
                 list.add(source.substring(i));
-            }
         }
 
         for (int i = 0; i < list.size(); i++) {

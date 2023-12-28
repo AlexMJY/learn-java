@@ -8,7 +8,7 @@ public class VectorEx01 {
         v.add("3");
         print(v);
 
-        v.trimToSize();
+        v.trimToSize();  // delete empty space
         System.out.println("=== After trimToSize() ===");
         print(v);
 
@@ -17,12 +17,13 @@ public class VectorEx01 {
         print(v);
 
         v.setSize(7);
-        System.out.println("=== After setSize() ===");
+        System.out.println("=== After setSize(7)");
         print(v);
 
         v.clear();
         System.out.println("=== After clear() ===");
         print(v);
+
     }
     public static void print(Vector v) {
         System.out.println(v);
